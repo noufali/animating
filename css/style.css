@@ -1,0 +1,13 @@
+body,html {
+  margin:0;
+  padding:0;
+}
+#Layer_1{
+  width: 3%;
+  visibility: hidden;
+}
+
+#Layer_2{
+  width: 5%;
+  visibility: hidden;
+}
